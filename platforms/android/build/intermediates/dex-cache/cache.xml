@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/hugomaia/Documents/projects/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/Groceries3/runtime/unspecified/jars/libs/binding-generator.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="d82f3ca98719f09b65db6aeaf450ad3bafc46e81">
+        <dex dex="/Users/hugomaia/Documents/projects/nativescript/Groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/binding-generator_4f2b21991f6a03f86b987ea771ca138b781e5651.jar" />
+    </item>
+    <item
+        jar="/Users/hugomaia/Documents/projects/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/hugomaia/Documents/projects/nativescript/Groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-recyclerview-v7-25.3.1_ab137f1b04fc93277c5cd8a7a69ae9c173fffa6a.jar" />
+    </item>
+    <item
+        jar="/Users/hugomaia/Documents/projects/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/widgets-release/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="8a73b09319cc3945912970487ced4c7724acc97d">
+        <dex dex="/Users/hugomaia/Documents/projects/nativescript/Groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/intermediates-exploded-aar-widgets-release_c1c10d907dccd7321b1fc96ca0bf8dfb1565560c.jar" />
+    </item>
+    <item
+        jar="/Users/hugomaia/Documents/projects/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/hugomaia/Documents/projects/nativescript/Groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-core-utils-25.3.1_8af8ff53b5342bb157cb95f9ae19f47e500e91cb.jar" />
+    </item>
+    <item
+        jar="/Users/hugomaia/Documents/projects/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/hugomaia/Documents/projects/nativescript/Groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-vector-drawable-25.3.1_fc982c4392d483ddfdb3a79f48f98fd3e94ef642.jar" />
+    </item>
+    <item
+        jar="/Users/hugomaia/Documents/projects/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/transition/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/hugomaia/Documents/projects/nativescript/Groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-transition-25.3.1_06f84d3a3bd749b511e2b77d83046f3bb0cef21d.jar" />
+    </item>
+    <item
+        jar="/usr/local/opt/android-sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/hugomaia/Documents/projects/nativescript/Groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/support-annotations-25.3.1_adc25731e75a3978eae2ccb702c92254820a9b34.jar" />
+    </item>
+    <item
+        jar="/Users/hugomaia/Documents/projects/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/hugomaia/Documents/projects/nativescript/Groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-media-compat-25.3.1_b28ea6e88b8928bcd01560c95b604726e2f64ea8.jar" />
+    </item>
+    <item
+        jar="/Users/hugomaia/Documents/projects/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/hugomaia/Documents/projects/nativescript/Groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-fragment-25.3.1_74c234f8064ac68938d188b2db0ec169aa061d84.jar" />
+    </item>
+    <item
+        jar="/Users/hugomaia/Documents/projects/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/hugomaia/Documents/projects/nativescript/Groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-compat-25.3.1_45197d3b24a07dea93ce854ac50fb1f95afe5efd.jar" />
+    </item>
+    <item
+        jar="/Users/hugomaia/Documents/projects/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/design/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/hugomaia/Documents/projects/nativescript/Groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-design-25.3.1_860b73bc1281a000b68c5b296e30af4d0ac0196b.jar" />
+    </item>
+    <item
+        jar="/Users/hugomaia/Documents/projects/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/hugomaia/Documents/projects/nativescript/Groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-core-ui-25.3.1_ba9fe3351327bf02045a1f4929d6754117d46244.jar" />
+    </item>
+    <item
+        jar="/Users/hugomaia/Documents/projects/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/hugomaia/Documents/projects/nativescript/Groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-appcompat-v7-25.3.1_a5e5f92ac855faf0f320d437e85ed6e12e088c4a.jar" />
+    </item>
+    <item
+        jar="/Users/hugomaia/Documents/projects/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/Groceries3/runtime/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="632bf39700c28ba66c117628dab343126ef89551">
+        <dex dex="/Users/hugomaia/Documents/projects/nativescript/Groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/Groceries3-runtime-unspecified_99f9952fa1c82825effd164e822526752b5cc14c.jar" />
+    </item>
+    <item
+        jar="/Users/hugomaia/Documents/projects/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/hugomaia/Documents/projects/nativescript/Groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-animated-vector-drawable-25.3.1_b9e097b728d9532ff417927bd6224d236fd4fc0a.jar" />
+    </item>
+    <item
+        jar="/Users/hugomaia/Documents/projects/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/hugomaia/Documents/projects/nativescript/Groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-v4-25.3.1_ede201fc4b8a23accba004533430a6edc9081676.jar" />
+    </item>
+
+</items>
